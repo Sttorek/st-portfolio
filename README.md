@@ -4,3 +4,6 @@ This is my most recent portfolio. I have added various ways to get in touch with
 
 
 site-https://sttorek.github.io/st-portfolio/
+
+
+![portfolio](./assets/images/Screenshot.png)
